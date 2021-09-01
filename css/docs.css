@@ -679,7 +679,7 @@ form.bs-docs-example {
   text-align: center;
 }
 .responsive-utilities td.is-visible {
-  color: #d00b01;
+  color: #076FB4;
   background-color: #f5c2bf !important;
 }
 .responsive-utilities td.is-hidden {
@@ -725,7 +725,7 @@ form.bs-docs-example {
           border-radius: 4px;
 }
 .responsive-utilities-test span {
-  color: #d00b01;
+  color: 076FB4;
   background-color: #f5c2bf;
   border: 1px solid #ff9994;
 }
