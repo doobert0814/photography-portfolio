@@ -1,1 +1,5 @@
 # photography-portfolio
+
+# Use jquery
+
+# 
