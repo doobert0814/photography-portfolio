@@ -1,5 +1,5 @@
-.jcarousel-skin-tango .jcarousel-container {
-}
+/* .jcarousel-skin-tango .jcarousel-container {
+} */
 .jcarousel-skin-tango .jcarousel-direction-rtl {direction: rtl;
 }
 .jcarousel-skin-tango .jcarousel-container-horizontal {
@@ -25,8 +25,8 @@
 	margin-left: 0;
     margin-right: 0;
 }
-.jcarousel-skin-tango .jcarousel-item-placeholder {
-}
+/* .jcarousel-skin-tango .jcarousel-item-placeholder {
+} */
 @media (min-width: 1200px) {
 	.jcarousel-skin-tango .jcarousel-container-horizontal, .jcarousel-skin-tango .jcarousel-clip-horizontal {width:1170px !important;
 	}

@@ -474,10 +474,10 @@
 	  float:none;
 	  width:724px;
   }
-  
+/*   
 	button.btn,
 	input[type="submit"].btn {
-	}
+	} */
   
   .span12 {
     width: 724px;
@@ -901,7 +901,6 @@
 }
 
 @media (max-width: 480px) {   
-  
   .nav-collapse {
     -webkit-transform: translate3d(0, 0, 0);
   }
@@ -1060,14 +1059,14 @@
 	  float:none;
 	  padding-left:0px;
 	}
-	.header .span4, .header .span8 {
+	#header .span4, #header .span8 {
 		float:none;
 		text-align:center;
 	}
 	
   .follow_us ul li { margin:5px 0 0 5px;
   }
-  .header, .follow_us {text-align:center;
+  header, .follow_us {text-align:center;
   }
   .follow_us ul li:first-child {margin-left:0;
   } 
